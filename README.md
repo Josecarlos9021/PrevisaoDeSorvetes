@@ -34,6 +34,3 @@ Publicar o modelo como endpoint para previsões em tempo real.
 👤 Autor
 
 José Carlos Da Silva Júnior
-
-GitHub: seu-usuario
-LinkedIn: seu-perfil
