@@ -31,6 +31,7 @@ Testar com dados reais de vendas.
 Incluir outras variáveis, como dia da semana, feriados e umidade.
 Comparar com outros algoritmos de regressão.
 Publicar o modelo como endpoint para previsões em tempo real.
+
 👤 Autor
 
 José Carlos Da Silva Júnior
